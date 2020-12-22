@@ -14,3 +14,7 @@ after_success:
 
 notifications:
   email: false
+
+arch:
+  - amd64
+  - ppc64le
